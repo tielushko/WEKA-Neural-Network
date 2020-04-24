@@ -1,0 +1,4 @@
+1. 85% training set, 1000 epochs, 52 nodes - 91.4% Success
+2. 85% training set, 1000 epochs, 52,26 nodes - 93.25% Success
+3. 85% training set, 2000 epochs, 52,26 nodes - 93.31% Success
+3. 85% training set, 1000 epochs 52, 
